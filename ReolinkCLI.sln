@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReolinkCLI", "ReolinkCLI\ReolinkCLI.csproj", "{593CD257-00B3-4E8A-96AB-12641D879155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReolinkNVR", "ReolinkNVR\ReolinkNVR.csproj", "{E381EDB5-2D48-49E0-BE24-1EBD890BC269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593CD257-00B3-4E8A-96AB-12641D879155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593CD257-00B3-4E8A-96AB-12641D879155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593CD257-00B3-4E8A-96AB-12641D879155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593CD257-00B3-4E8A-96AB-12641D879155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E381EDB5-2D48-49E0-BE24-1EBD890BC269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E381EDB5-2D48-49E0-BE24-1EBD890BC269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E381EDB5-2D48-49E0-BE24-1EBD890BC269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E381EDB5-2D48-49E0-BE24-1EBD890BC269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
